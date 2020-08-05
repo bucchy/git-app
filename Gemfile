@@ -5,6 +5,8 @@ gem 'devise'
 
 ruby '2.6.5'
 
+gem 'pry-rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.0'
 # Use mysql as the database for Active Record
